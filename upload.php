@@ -1,4 +1,8 @@
 <?php
+// Credit for the script goes to 'Nico' from the WebDevRefinery
+// http://webdevrefinery.com/forums/user/497-nico/
+// http://webdevrefinery.com/forums/topic/3852-upload-file-help/page__p__30268#entry30268
+
 $date      = getdate();
 $uploaddir = sprintf('uploads/%d/%02d/%02d/', $date['year'], $date['mon'], $date['mday']);
 
