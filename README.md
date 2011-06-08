@@ -1,13 +1,10 @@
 # iHackerPro App #
-
 ----------------------------
-
 ##Overview##
 
 iHackerPro is the name of my forum for jailbroken iOS devices. I planned from he start to give the site an app, however I had only just started learning ObjC at that point so a [ModMyi style completely native app](http://itunes.apple.com/us/app/modmyi/id381962819?mt=8 "ModMyi App in AppStore") was unattainable. So an [iHackMyi](http://ihackmyi.com "iHackMyi Forums") style UIWebView based app it was (I also developed the currently available version of their app).
 Anyway I **LOVE** Opensource stuff, I learn fastest and most easily by studying well formatted easily understandable code.
 Now I can't promise this code is well: documented, formatted; or easily understandable throughout but I try to code neatly (honest ;).
-
 ---------------------------
 
 ## Features ##
